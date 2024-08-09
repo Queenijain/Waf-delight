@@ -1,0 +1,219 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NZ:wght@100..400&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+#background {
+  height: 90vh;
+  background-image: url(./assets/bgndlg/bgLogin.jpg);
+  background-position: center;
+  background-size: cover;
+  object-fit: cover;
+}
+
+#navbar {
+  background-color: rgba(255, 255, 255, 0.354);
+  /* position: fixed; */
+  width: 100%;
+  font-weight: 700;
+  font-family: "Pacifico", cursive;
+  position: fixed;
+  top: 0;
+  z-index: 50;
+}
+
+#loginCard {
+  background-color: rgba(255, 255, 255, 0.306);
+}
+
+#hero-sec {
+  height: 80vh;
+  width: 100%;
+  background-image: linear-gradient(
+      rgba(112, 109, 109, 0),
+      rgba(165, 158, 158, 0.5),
+      rgb(18, 17, 17)
+    ),
+    url(./assets//bgndlg/bg01.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  font-family: "Playwrite NZ", cursive;
+}
+#hero-sec h1 {
+  font-size: 50px;
+}
+.carousel-item img {
+  height: 80vh;
+}
+
+#background02 {
+  height: auto;
+  width: 100%;
+  background-image: linear-gradient(
+      rgba(225, 219, 219, 0),
+      rgba(217, 208, 208, 0.5),
+      rgb(18, 17, 17)
+    ),
+    url(./assets//bgndlg/bg02.jpg);
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
+
+}
+.box {
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  transition: transform 0.3s ease;
+}
+.box img {
+  height: 250px;
+  width: 250px;
+  border-radius: 50%;
+  border: 4px solid white;
+}
+.box:hover {
+  box-shadow: -1px 1px 22px 3px rgba(0, 0, 0, 0.75);
+  transform: translateY(-20px);
+}
+
+#last {
+  height: auto;
+  width: 100%;
+  background-image: linear-gradient(
+      rgba(219, 211, 211, 0.5),
+      rgba(219, 211, 211, 0.5),
+      rgb(19, 18, 18)
+    ),
+    url(./assets/bgndlg/imgLast.webp);
+  background-position: center;
+  background-size: cover;
+}
+
+#waffle {
+  height: 80vh;
+  width: 100%;
+  color: rgb(93, 43, 21);
+  background-image: linear-gradient(
+      rgba(207, 185, 158, 0.747),
+      rgba(210, 151, 79, 0.747),
+      rgb(18, 17, 17)
+    ),
+    url(./assets/diffSec/imgWaffle01.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+#cardW {
+  height: auto;
+  width: 100%;
+  background-image: linear-gradient(
+      rgba(197, 148, 87, 0.747),
+      rgba(211, 157, 90, 0.747),
+      rgb(18, 17, 17)
+    ),
+    url(./assets/diffSec//bg-imgWaffle.jpg);
+  background-position: center;
+  background-size: cover;
+}
+#icecream {
+  height: 80vh;
+  width: 100%;
+  background-image: linear-gradient(
+      rgba(212, 14, 123, 0.747),
+      rgba(173, 79, 134, 0.747),
+      rgb(18, 17, 17)
+    ),
+    url(./assets/diffSec/iceimage.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  color:  rgb(99, 3, 56);
+}
+
+#cardC {
+  height: auto;
+  width: 100%;
+  background-image: linear-gradient(
+      rgba(185, 84, 140, 0.747),
+      rgba(177, 106, 148, 0.747),
+      rgb(18, 17, 17)
+    ),
+    url(./assets//bgndlg//imageIce.avif);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+#cake{
+  height: 80vh;
+  width: 100%;
+  background-image: linear-gradient(
+      rgba(87, 8, 8, 0.541),
+      rgba(97, 28, 28, 0.564),
+      rgb(18, 17, 17)
+    ),
+    url(./assets//diffSec//CakeBg00.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  color: rgb(236, 121, 121);
+}
+#cardK {
+  height: auto;
+  width: 100%;
+  background-image: linear-gradient(
+    rgba(78, 31, 31, 0.616),
+    rgba(79, 38, 38, 0.603),
+    rgb(18, 17, 17)
+  ),
+    url(./assets/diffSec/cakeBg.jpg);
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#cartImg{
+  height: 150px;
+  width: 150px;
+}
+#spanImg{
+  flex-grow: calc(1);
+}
+#cardd{
+  background-color: rgb(212, 190, 162);
+}
+#cardd:hover {
+  box-shadow: -1px 5px 28px 3px rgba(0, 0, 0, 0.75);
+  transform: translateY(-40px);
+}
+#btnB{
+  color: rgb(236, 121, 121);
+}
+#btnC{
+  color:  rgb(99, 3, 56);
+}
+#btnW{
+  color: rgb(93, 43, 21);
+}
+#carttt{
+  margin: 8% 0% 3% 0%;
+}
+#cartBg{
+  background-image: linear-gradient(
+    rgba(133, 129, 129, 0),
+    rgba(165, 158, 158, 0.5),
+    rgb(18, 17, 17)
+  ) ,url(./assets/bgndlg/Cart01.jpg);
+  height: 100vh;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  overflow-x: hidden;
+}
+

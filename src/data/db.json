@@ -1,0 +1,326 @@
+{
+  "pizza": [
+    {
+      "id": "1",
+      "category": "Waffle",
+      "title": "Strawberry Waffle",
+      "desc": "Classic Crispy Waffle With Strawberry Twist with Whitechip",
+      "price": "150",
+      "image": "https://static.toiimg.com/thumb/62391293.cms?width=1200&height=900"
+    },
+    {
+      "id": "2",
+      "title": "Nuttela Waffle",
+      "category": "Waffle",
+      "desc": "Crispy Waffle With Premium European Chocolate Hazelnut",
+      "price": "180",
+      "image": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/2017/10/03105517/waffle-2.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Chocolate Milk Waffle",
+      "category": "Waffle",
+      "desc": "Classic Waffle With White Chocolate and Whitechip",
+      "price": "147",
+      "image": "https://b.zmtcdn.com/data/pictures/6/19179396/5f5c5dde8f96a1114d091eafa016d902.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Kitkat Waffle",
+      "category": "Waffle",
+      "desc": "Crispy Waffle With Kitkat Bits and Chocolates",
+      "price": "186",
+      "image": "https://99pancakes.in/cdn/shop/products/KitKat_1.jpg?v=1677245695"
+    },
+    {
+      "id": "5",
+      "title": "Oreo Cream Waffle",
+      "category": "Waffle",
+      "desc": "Classic Waffle With Melted Chocolate and Oreo Twist",
+      "price": "299",
+      "image": "https://d2n7tchuu1wmsv.cloudfront.net/uploads/18654/products/1599024978_1589289308_oreowaffle.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Lotus Biscoff Waffle",
+      "category": "Waffle",
+      "desc": "Crispy Velvet Waffle With Lotus Biscoff Bits",
+      "price": "199",
+      "image": "https://imgmedia.lbb.in/media/2018/12/5c023bd9d7a5832ac34d8b43_1543650265413.JPG"
+    },
+    {
+      "id": "7",
+      "title": "Butter Almond Waffle",
+      "category": "Waffle",
+      "desc": "Classic Waffle With Cocoa Butter and Almonds",
+      "price": "239",
+      "image": "https://b.zmtcdn.com/data/pictures/chains/0/19025620/0e8ab2a82049bce1795f47671bd978c3_featured_v2.jpg"
+    },
+    {
+      "id": "8",
+      "title": "White Chocolate Waffle",
+      "category": "Waffle",
+      "desc": "Crispy Waffle With Melted White Chocolate and Bits",
+      "price": "340",
+      "image": "https://b.zmtcdn.com/data/dish_photos/bcc/477aaaeae2aaa1efecd7d35783b47bcc.jpeg"
+    },
+    {
+      "id": "9",
+      "title": "Chocolate Waffle",
+      "category": "Waffle",
+      "desc": "Classic Crispy Waffle With Melted Chocolate",
+      "price": "150",
+      "image": "https://b.zmtcdn.com/data/dish_photos/8b5/c9da491189c6020fcf292dd6e5bca8b5.jpg"
+    },
+    {
+      "id": "10",
+      "title": "Double Chocolate Waffle",
+      "category": "Waffle",
+      "desc": "Crispy Waffle With White and Dark Chocolate",
+      "price": "480",
+      "image": "https://b.zmtcdn.com/data/pictures/3/18140523/dd704d99db6400dbe5bc00990597c825.jpg"
+    },
+    {
+      "id": "11",
+      "title": "Dark Chocolate Waffle",
+      "category": "Waffle",
+      "desc": "Classic Waffle With Melted Dark Chocolate",
+      "price": "217",
+      "image": "https://b.zmtcdn.com/data/dish_photos/bf5/146a9a722d467c0981ef248e67e6ebf5.png"
+    },
+    {
+      "id": "12",
+      "title": "Triple Chocolate Waffle",
+      "category": "Waffle",
+      "desc": "Crispy Waffle With White, Hazelnut and Dark Chocolate",
+      "price": "599",
+      "image": "https://b.zmtcdn.com/data/dish_photos/695/25b5b9605fac2585aefb7ca571d66695.png"
+    },
+    {
+      "id": "13",
+      "title": "Brownie Waffle",
+      "category": "Waffle",
+      "desc": "Velvet Waffle With Brownie and Dark Chocolate",
+      "price": "399",
+      "image": "https://imgstaticcontent.lbb.in/lbbnew/wp-content/uploads/sites/7/2018/07/06190418/Swiggy-13.jpg"
+    },
+    {
+      "id": "14",
+      "title": "Chocolate Overloaded Waffle",
+      "category": "Waffle",
+      "desc": "Crispy Waffle With Combination of All Chocolates",
+      "price": "333",
+      "image": "https://content.jdmagicbox.com/comp/mumbai/e2/022pxx22.xx22.160112111830.q4e2/catalogue/the-belgian-waffle-co-mumbai-n66zjlggyb.jpg"
+    },
+    {
+      "id": "15",
+      "title": "Butterscotch Waffle",
+      "category": "Waffle",
+      "desc": "Classic Waffle With Crispy Butterscotch Fudge",
+      "price": "210",
+      "image": "https://b.zmtcdn.com/data/dish_photos/b32/ab7d716d0f334250df512c3701918b32.png"
+    },
+    {
+      "id": "16",
+      "title": "Coffee Mocha Waffle",
+      "category": "Waffle",
+      "desc": "Crispy Waffle With Melted Chocolates and Coffe Crumbs",
+      "price": "360",
+      "image": "https://5.imimg.com/data5/YM/AB/VM/ANDROID-50220991/product-jpeg-500x500.jpg"
+    },
+
+    {
+      "id": "17",
+      "title": "Cherry Macaron",
+      "category": "Icecream",
+      "desc": "Cherry Vanilla between macarons, Dip in chocolate ",
+      "price": "160",
+      "image": "https://floralapron.com/wp-content/uploads/2024/06/Black-Cherry-Ice-Cream-scaled.jpg"
+    },
+    {
+      "id": "18",
+      "title": "Choco Brownie",
+      "category": "Icecream",
+      "desc": "Rich chocolate ice cream blended with chunks of fudgy brownies",
+      "price": "360",
+      "image": "https://lh5.googleusercontent.com/proxy/P7I8qWTuT30DcX_teUUooMnOy57liq1wy1XCAo3wrCElSU_whZYM_QKNbZw-ceIBgsut8OXxdVli8S9Hs3iHs8iQwzkeUsbzJwZHyOWvYtnHVlmND1VPIQAN13uDNB2OVgN0dNsIZsLfNJBtOfc"
+    },
+    {
+      "id": "19",
+      "title": "American Nut",
+      "category": "Icecream",
+      "desc": "Blend creamy peanut butter and chopped mixed nuts into vanilla icecream",
+      "price": "220",
+      "image": "https://www.vadilalicecreams.com/_next/static/media/contact_img.221682b2.jpg"
+    },
+    {
+      "id": "20",
+      "title": "Cassata",
+      "category": "Icecream",
+      "desc": "Rich ricotta and candied fruit folded into creamy vanilla gelato",
+      "price": "310",
+      "image": "https://mcmscache.epapr.in/post_images/website_350/post_15683745/thumb.jpg"
+    },
+    {
+      "id": "21",
+      "title": "Toasted Coconut",
+      "category": "Icecream",
+      "desc": " Delightful fusion of rich coconut milk, toasted coconut flakes",
+      "price": "100",
+      "image": "https://rachelcooksthai.com/wp-content/uploads/2022/08/Coconut-Ice-Cream-Big-11.jpg"
+    },
+    {
+      "id": "22",
+      "title": "Hazzelnut Choco",
+      "category": "Icecream",
+      "desc": "A velvety blend of roasted hazelnuts, rich cream, and hint of vanilla",
+      "price": "150",
+      "image": "https://nourishingamy.com/wp-content/uploads/2022/05/Double-Chocolate-Hazelnut-Ice-Cream-3.jpg"
+    },
+    {
+      "id": "23",
+      "title": "Breeze Basil Bliss",
+      "category": "Icecream",
+      "desc": " Infuse fresh basil leaves into a creamy vanilla base.",
+      "price": "399",
+      "image": "https://b.zmtcdn.com/data/pictures/0/20998090/a30d6c5142e77801b25b1c85e023f0b8_o2_featured_v2.jpg?fit=around|960:500&crop=960:500;*,*"
+    },
+    {
+      "id": "24",
+      "title": "Dusk Delight",
+      "category": "Icecream",
+      "desc": " A decadent blend of dark chocolate, espresso swirls, and hint of caramel.",
+      "price": "240",
+      "image": "https://autisticbaker.com/wp-content/uploads/2024/03/Turkish-Delight.webp"
+    },
+    {
+      "id": "25",
+      "title": "Vanilla Velvet Vortex",
+      "category": "Icecream",
+      "desc": "Rich blend of creamy vanilla infused with a whirlwind of sumptuous flavors",
+      "price": "270",
+      "image": "https://www.wordlab.com/wp-content/uploads/2024/02/Ice-cream-e1708389474809.jpg"
+    },
+    {
+      "id": "26",
+      "title": "Walnut Whimsy",
+      "category": "Icecream",
+      "desc": "Vanilla with toasted walnuts for a whimsical flavor experience",
+      "price": "160",
+      "image": "https://www.fullerssugarhouse.com/wp-content/uploads/2022/02/104102979_m.jpg"
+    },
+    {
+      "id": "27",
+      "title": "Pink Lemonade Pop",
+      "category": "Icecream",
+      "desc": "Crispy Waffle With Melted Chocolates and Coffe Crumbs",
+      "price": "110",
+      "image": "https://foodal.com/wp-content/uploads/2018/07/Strawberry-Lemonade-Freeze-Pops.jpg"
+    },
+    {
+      "id": "28",
+      "title": "Mix Fruit",
+      "category": "Icecream",
+      "desc": "Blending rich lemon sorbet with a splash of raspberry syrup",
+      "price": "230",
+      "image": "https://st2.depositphotos.com/4231139/7792/i/950/depositphotos_77923326-stock-photo-mixed-fruit-ice.jpg"
+    },
+    {
+      "id": "29",
+      "title": "Butter-scotch",
+      "category": "Icecream",
+      "desc": "Perfect blend of caramelized sugar, buttery, and velvety smoothness",
+      "price": "140",
+      "image": "https://vaya.in/recipes/wp-content/uploads/2019/03/Butterscotch-Ice-Cream.jpg"
+    },
+    {
+      "id": "30",
+      "title": "Triple Chocolate",
+      "category": "Icecream",
+      "desc": "Chocolate custard infused with dark, milk, and white chocolate chunks",
+      "price": "380",
+      "image": "https://png.pngtree.com/background/20230520/original/pngtree-3-chocolate-ice-creams-in-waffle-cones-on-black-background-picture-image_2678453.jpg"
+    },
+
+    {
+      "id": "31",
+      "title": "Double Chocolate",
+      "category": "Cake",
+      "desc": "Mix melted chocolate into the batter for a double chocolate cake.",
+      "price": "160",
+      "image": "https://assets.epicurious.com/photos/61f4370abf67bb5e52649829/16:9/w_1280,c_limit/DoubleDhocolateLayerCake_RECIPE_012622_26397.jpg"
+    },
+    {
+      "id": "32",
+      "title": "Red Velvet",
+      "category": "Cake",
+      "desc": "Blend buttermilk with red food coloring, frost with cream cheese frosting",
+      "price": "360",
+      "image": "https://media.istockphoto.com/id/117461345/photo/red-velvet-cake.jpg?s=612x612&w=0&k=20&c=GHtlTor5UmUMGIYU0iz4zXAyD4OS4J2BYo8EkVfrkds="
+    },
+    {
+      "id": "33",
+      "title": "Mix Fruit",
+      "category": "Cake",
+      "desc": "Combine diced mixed fruits with cake batter and enjoy.",
+      "price": "220",
+      "image": "https://www.epilicious.in/wp-content/uploads/2021/02/Mixfruit-cake-1000X667.jpg"
+    },
+    {
+      "id": "34",
+      "title": "Rich Chocolate",
+      "category": "Cake",
+      "desc": "Decadent chocolates mixed with basic ingredients.",
+      "price": "310",
+      "image": "https://img.taste.com.au/VcIM3Yg7/taste/2016/11/rich-chocolate-fudge-cake-81996-1.jpeg"
+    },
+    {
+      "id": "35",
+      "title": "Mango Meringue",
+      "category": "Cake",
+      "desc": "Layer fluffy mango sponge with tangy mango curd, top with billowy meringue.",
+      "price": "160",
+      "image": "https://img.taste.com.au/dJQHsqb2/w720-h480-cfill-q80/taste/2016/11/chewy-meringue-and-mango-sorbet-cake-92160-1.jpeg"
+    },
+    {
+      "id": "36",
+      "title": "Black Forest",
+      "category": "Cake",
+      "desc": "Combine chocolate cake layers with layers of whipped cream and cherries.",
+      "price": "360",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0_tbrJhFqRBvlE7U2ICxmKMfmAS80QxP_naYKScnbLyK_zrqKmX7dRX5KbrHRUV0zhJE7OcXxrbn-phcibPiCD5rG5_S2dBiJrBfKgB1SxheGEdBFd_VfFOqFR9BPQqnp_ZIeWgtpX8L6/s1600/DSC07710.JPG"
+    },
+    {
+      "id": "37",
+      "title": "Funfetti Cake",
+      "category": "Cake",
+      "desc": "Mix Funfetti layers rainbow sprinkles, enjoy a colorful Funfetti cake",
+      "price": "220",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/birthday-cake-horizontal-1537306230.jpg?crop=1xw:0.84375xh;center,top"
+    },
+    {
+      "id": "38",
+      "title": "Frosted Coffee",
+      "category": "Cake",
+      "desc": "Blend coffee-infused and top with luscious frosting. ",
+      "price": "310",
+      "image": "https://images.immediate.co.uk/production/volatile/sites/30/2023/02/Irish-coffee-cake-e23e0f0.jpg?resize=768,574"
+    },
+    {
+      "id": "39",
+      "title": "Candyland Carnival",
+      "category": "Cake",
+      "desc": "Layers of rainbow sponge filled with cotton candy-flavored frosting",
+      "price": "220",
+      "image": "https://img.freepik.com/premium-photo/fancy-birthday-cake-with-candyland-theme-three-layer-cake-is-covered-with-fondant-candy_146671-110438.jpg"
+    },
+    {
+      "id": "40",
+      "title": "Raspberry Ripple",
+      "category": "Cake",
+      "desc": "Mix raspberry puree into vanilla, swirl in with a toothpick,cool, and enjoy",
+      "price": "310",
+      "image": "https://www.fentonandfenton.com.au/cdn/shop/articles/julia-busuttil-nishimuras-raspberry-ripple-cake-fenton-fenton-510931.jpg?v=1710386950"
+    }
+  ]
+}
